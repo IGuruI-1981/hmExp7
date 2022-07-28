@@ -56,6 +56,7 @@ public class Main {
         System.out.println(fullNameCorrect);
 
 
+
 //:предупреждающий_знак: Задание 6
 //        Имеется две строки.
 //                Первая: "135"
